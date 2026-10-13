@@ -1,0 +1,20 @@
+# Python
+
+**pycache**/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets
+
+.env
+.env.*
+!.env.example
+
+# Temporary files
+
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
